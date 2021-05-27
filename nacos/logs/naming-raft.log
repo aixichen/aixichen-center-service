@@ -1,0 +1,154 @@
+2021-05-27 22:03:08,951 INFO raft peers changed: [Member{ip='6b90b2a46f9f', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-05-27 22:03:09,047 INFO initializing Raft sub-system
+
+2021-05-27 22:03:09,048 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2021-05-27 22:03:09,050 INFO cache loaded, datum count: 0, current term: 0
+
+2021-05-27 22:03:09,050 INFO finish to load data from disk, cost: 3 ms.
+
+2021-05-27 22:03:09,055 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2021-05-27 22:03:09,178 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2021-05-27 22:03:09,656 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2021-05-27 22:03:10,099 INFO leader timeout, start voting,leader: {"ip":"6b90b2a46f9f:8848","term":0,"leaderDueMs":17408,"heartbeatDueMs":4500,"state":"FOLLOWER"}, term: 0
+
+2021-05-27 22:06:52,706 INFO raft peers changed: [Member{ip='6b90b2a46f9f', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-05-27 22:06:52,738 INFO initializing Raft sub-system
+
+2021-05-27 22:06:52,738 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2021-05-27 22:06:52,741 INFO cache loaded, datum count: 0, current term: 0
+
+2021-05-27 22:06:52,741 INFO finish to load data from disk, cost: 3 ms.
+
+2021-05-27 22:06:52,796 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2021-05-27 22:06:52,851 INFO leader timeout, start voting,leader: {"ip":"6b90b2a46f9f:8848","term":0,"leaderDueMs":16510,"heartbeatDueMs":4500,"state":"FOLLOWER"}, term: 0
+
+2021-05-27 22:06:52,935 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2021-05-27 22:06:53,346 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2021-05-27 22:09:09,605 INFO raft peers changed: [Member{ip='606ea6a66f2e', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-05-27 22:09:09,679 INFO initializing Raft sub-system
+
+2021-05-27 22:09:09,680 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2021-05-27 22:09:09,682 INFO cache loaded, datum count: 0, current term: 0
+
+2021-05-27 22:09:09,682 INFO finish to load data from disk, cost: 3 ms.
+
+2021-05-27 22:09:09,694 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2021-05-27 22:09:09,816 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2021-05-27 22:09:10,477 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2021-05-27 22:09:10,734 INFO leader timeout, start voting,leader: {"ip":"606ea6a66f2e:8848","term":0,"leaderDueMs":16342,"heartbeatDueMs":4500,"state":"FOLLOWER"}, term: 0
+
+2021-05-27 22:20:05,687 INFO raft peers changed: [Member{ip='5760d4b7936d', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-05-27 22:20:05,764 INFO initializing Raft sub-system
+
+2021-05-27 22:20:05,768 INFO finish loading all datums, size: 0 cost 4 ms.
+
+2021-05-27 22:20:05,770 INFO cache loaded, datum count: 0, current term: 0
+
+2021-05-27 22:20:05,770 INFO finish to load data from disk, cost: 6 ms.
+
+2021-05-27 22:20:05,773 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2021-05-27 22:20:05,905 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2021-05-27 22:20:06,487 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2021-05-27 22:29:18,247 INFO raft peers changed: [Member{ip='bde43fc65afb', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-05-27 22:29:18,279 INFO initializing Raft sub-system
+
+2021-05-27 22:29:18,280 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2021-05-27 22:29:18,285 INFO cache loaded, datum count: 0, current term: 0
+
+2021-05-27 22:29:18,285 INFO finish to load data from disk, cost: 6 ms.
+
+2021-05-27 22:29:18,296 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2021-05-27 22:29:18,427 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2021-05-27 22:29:18,939 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2021-05-27 22:29:20,985 INFO raft peers changed: [Member{ip='bde43fc65afb', port=8848, state=UP, extendInfo={lastRefreshTime=1622125760974, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@11994e54, raftPort=7848, version=2.0.0}}]
+
+2021-05-27 22:29:23,273 WARN start to close old raft protocol!!!
+
+2021-05-27 22:29:23,273 WARN stop old raft protocol task for notifier
+
+2021-05-27 22:29:23,273 WARN stop old raft protocol task for master task
+
+2021-05-27 22:29:23,273 WARN stop old raft protocol task for heartbeat task
+
+2021-05-27 22:29:23,273 WARN clean old cache datum for old raft
+
+2021-05-27 22:29:23,273 WARN start to close old raft protocol!!!
+
+2021-05-27 22:29:23,273 WARN stop old raft protocol task for notifier
+
+2021-05-27 22:29:23,273 WARN stop old raft protocol task for master task
+
+2021-05-27 22:29:23,273 WARN stop old raft protocol task for heartbeat task
+
+2021-05-27 22:29:23,273 WARN clean old cache datum for old raft
+
+2021-05-27 22:29:23,273 WARN start to move old raft protocol metadata
+
+2021-05-27 22:29:23,275 WARN start to move old raft protocol metadata
+
+2021-05-27 22:31:05,062 INFO raft peers changed: [Member{ip='9b9a657178fc', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-05-27 22:31:05,099 INFO initializing Raft sub-system
+
+2021-05-27 22:31:05,099 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2021-05-27 22:31:05,102 INFO cache loaded, datum count: 0, current term: 0
+
+2021-05-27 22:31:05,102 INFO finish to load data from disk, cost: 3 ms.
+
+2021-05-27 22:31:05,115 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2021-05-27 22:31:05,222 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2021-05-27 22:31:05,627 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2021-05-27 22:31:07,343 INFO raft peers changed: [Member{ip='9b9a657178fc', port=8848, state=UP, extendInfo={lastRefreshTime=1622125867321, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@7abbf412, raftPort=7848, version=2.0.0}}]
+
+2021-05-27 22:31:10,090 WARN start to close old raft protocol!!!
+
+2021-05-27 22:31:10,090 WARN stop old raft protocol task for notifier
+
+2021-05-27 22:31:10,090 WARN stop old raft protocol task for master task
+
+2021-05-27 22:31:10,090 WARN stop old raft protocol task for heartbeat task
+
+2021-05-27 22:31:10,090 WARN clean old cache datum for old raft
+
+2021-05-27 22:31:10,090 WARN start to close old raft protocol!!!
+
+2021-05-27 22:31:10,090 WARN stop old raft protocol task for notifier
+
+2021-05-27 22:31:10,090 WARN stop old raft protocol task for master task
+
+2021-05-27 22:31:10,090 WARN stop old raft protocol task for heartbeat task
+
+2021-05-27 22:31:10,090 WARN clean old cache datum for old raft
+
+2021-05-27 22:31:10,090 WARN start to move old raft protocol metadata
+
+2021-05-27 22:31:10,090 WARN start to move old raft protocol metadata
+

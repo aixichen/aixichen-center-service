@@ -1,0 +1,32 @@
+2021-05-27 22:03:09,176 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-05-27 22:03:09,177 INFO listen for service meta change
+
+2021-05-27 22:06:52,932 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-05-27 22:06:52,934 INFO listen for service meta change
+
+2021-05-27 22:09:09,814 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-05-27 22:09:09,815 INFO listen for service meta change
+
+2021-05-27 22:20:05,903 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-05-27 22:20:05,904 INFO listen for service meta change
+
+2021-05-27 22:29:18,423 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-05-27 22:29:18,427 INFO listen for service meta change
+
+2021-05-27 22:29:20,984 INFO [NACOS-DISTRO] healthy server list changed, old: [bde43fc65afb:8848], new: [bde43fc65afb:8848]
+
+2021-05-27 22:29:20,985 INFO member change, new members [Member{ip='bde43fc65afb', port=8848, state=UP, extendInfo={lastRefreshTime=1622125760974, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@11994e54, raftPort=7848, version=2.0.0}}]
+
+2021-05-27 22:31:05,219 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-05-27 22:31:05,221 INFO listen for service meta change
+
+2021-05-27 22:31:07,332 INFO member change, new members [Member{ip='9b9a657178fc', port=8848, state=UP, extendInfo={lastRefreshTime=1622125867321, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@7abbf412, raftPort=7848, version=2.0.0}}]
+
+2021-05-27 22:31:07,344 INFO [NACOS-DISTRO] healthy server list changed, old: [9b9a657178fc:8848], new: [9b9a657178fc:8848]
+
